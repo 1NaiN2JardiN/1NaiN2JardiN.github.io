@@ -1,4 +1,4 @@
-/* Fichier CSS à personnaliser */
+/* Fichier CSS */
 
 h1 {
     text-align: center;
@@ -23,20 +23,4 @@ h1 {
     background-color: purple;
   }
 
-.souligne {
-    text-decoration: underline black;
-}
 
-#bloc1 {
-    border: 5px solid purple;
-    width: 40%;
-    background-color: darkturquoise;
-    color: white;
-    padding:20px;
-  }
-
-  #monImage {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
