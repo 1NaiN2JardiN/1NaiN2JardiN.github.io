@@ -1,0 +1,42 @@
+/* Fichier CSS à personnaliser */
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: black;
+  }
+
+  
+.alignez {
+    text-align: center;
+  }
+ 
+
+.devanture {
+    text-align: center;
+    color: white;
+    background-color: black;
+  }
+
+.surligne {
+    color: white;
+    background-color: purple;
+  }
+
+.souligne {
+    text-decoration: underline black;
+}
+
+#bloc1 {
+    border: 5px solid purple;
+    width: 40%;
+    background-color: darkturquoise;
+    color: white;
+    padding:20px;
+  }
+
+  #monImage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
